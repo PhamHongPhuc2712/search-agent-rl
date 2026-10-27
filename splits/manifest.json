@@ -1,0 +1,29 @@
+{
+  "hotpotqa": {
+    "n_train": 89447,
+    "n_validation": 1000,
+    "n_validation_groups": 1000,
+    "raw_dev_sha256": "434ec155867019396312f3d466ce3406c71fe8a2917f49f63bb646ec5ad2ff52",
+    "raw_train_sha256": "a81274abafa899ec0ee073102edbe6bb694a8a1174201b4e43e2bc6c98964d1a",
+    "salt": "search-agent-rl/validation/v1",
+    "validation_ids_sha256": "8b471d10beeced1ce155c6723783da65add3ea03f74dedd6b22721e3cc3126d8"
+  },
+  "musique": {
+    "n_train": 18938,
+    "n_validation": 1000,
+    "n_validation_groups": 1000,
+    "raw_dev_sha256": "d1cc08bcc91b060ba67c1e12881789e1315fb9f85d46f03a3413dd5e0f2ed02c",
+    "raw_train_sha256": "f8a2f40e487f3c62460c6a9ddb122a0dfe5bd56dfe2bf5b0c96a51471b433a9d",
+    "salt": "search-agent-rl/validation/v1",
+    "validation_ids_sha256": "13717b7e79fb7729c7c3eea17fb93d85c77df3b094a1ff3dea8d2986d0eedc55"
+  },
+  "topiocqa": {
+    "n_train": 44200,
+    "n_validation": 1250,
+    "n_validation_groups": 100,
+    "raw_dev_sha256": "1bba9512b24b2e5de22704766dd80b1dc497bb7262799f66c3912e6f413ac1c6",
+    "raw_train_sha256": "d976c118996b238d1c689342f7abe28b0f6033aa59787efe5f1c6c26dbb8c39c",
+    "salt": "search-agent-rl/validation/v1",
+    "validation_ids_sha256": "43241db996187072207a33db8bccf0c1d9ccff8ebd53aef305554b27e7fb964c"
+  }
+}
